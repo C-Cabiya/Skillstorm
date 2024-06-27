@@ -1,1 +1,1 @@
-
+I'm making [a new repo](https://github.com/C-Cabiya/Skillstorm_Reboot/tree/master/Week_2) to be able to actually push instead of just upload! If you're confused as to why there's so little assignments here, check there!
